@@ -1,0 +1,121 @@
+[
+   {
+      "Algebra": [
+         "System of Equations",
+         "Algebra",
+         "Functionals",
+         "Trig",
+         "Discrete",
+         "Inequalities",
+         "Bezout's Identity",
+         "Polynomials",
+         "Induction",
+         "Limits",
+         "MinMax",
+         "Putnam",
+         "Student Math League",
+         "Telescopic Cancellation",
+         "AIME",
+         "Jensen",
+         "Vieta",
+         "Analysis"
+      ]
+   },
+   {
+      "Number Theory": [
+         "p-adic valuation",
+         "Algebra",
+         "Integrals",
+         "Inequalities",
+         "Diophantic Equations",
+         "Polynomials",
+         "MinMax",
+         "Brute Force",
+         "Derivatives",
+         "Chinese Remainder Theorem",
+         "Analysis",
+         "BMT",
+         "Functionals",
+         "Putnam",
+         "Counting",
+         "Divisibility",
+         "GCD",
+         "Vieta's Formula",
+         "Induction",
+         "Student Math League",
+         "USAMO",
+         "Primes",
+         "Limits",
+         "System of Equations",
+         "Taylor Series",
+         "Bezout's Identity",
+         "Simon's Favorite Factoring Trick",
+         "Infinite Descent",
+         "AIME",
+         "MOD",
+         "Trig"
+      ]
+   },
+   {
+      "Discrete": [
+         "Algebra",
+         "Probability",
+         "AMC",
+         "MinMax",
+         "Brute Force",
+         "Inclusion - Exlusion Principle",
+         "Derivatives",
+         "Starts and Bars",
+         "BMT",
+         "Expected Value",
+         "Stirling Numbers",
+         "Linear Algebra",
+         "Putnam",
+         "Counting",
+         "Divisibility",
+         "Stars and Bars",
+         "Generating Functions",
+         "Double Counting",
+         "Lattice points",
+         "Induction",
+         "Student Math League",
+         "Floor Function",
+         "Discrete",
+         "Simon's Favorite Factoring Trick",
+         "Knights and Knaves",
+         "AIME",
+         "MOD"
+      ]
+   },
+   {
+      "Geometry": [
+         "Discrete",
+         "Pigeonhole Principle",
+         "Pythagorean Theorem",
+         "Student Math League",
+         "Geometry"
+      ]
+   },
+   {
+      "Calculus": [
+         "Algebra",
+         "Divisibility",
+         "Functionals",
+         "Integrals",
+         "Discrete",
+         "Inequalities",
+         "integrals",
+         "Riemann Sum",
+         "Pigeonhole Principle",
+         "Putnam",
+         "Induction",
+         "Student Math League",
+         "Derivatives",
+         "Complex Numbers",
+         "Analysis",
+         "Limits",
+         "Tangent Line Trick",
+         "BMT"
+      ]
+   }
+]

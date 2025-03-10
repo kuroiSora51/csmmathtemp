@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap');
+
+:root {
+    --primary-color: SlateBlue;
+    --secondary-color: rgb(37.821, 75.798, 198.9);
+    --hover-link: rgb(0, 123, 255);
+    --light-gray: #ccc;
+    --light-blue: #d8edffe1;
+    --black: rgba(0, 0, 0, 0.1);
+    --white: white;
+    --background-white: #f8f8f8;
+    --border-bottom: #ddd;
+    --hover-background: #f1f1f1;
+    
+
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Latin Modern Roman', sans-serif;
+}
+
+.mathjax-container {
+    font-weight: normal !important;
+}
